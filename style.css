@@ -1,0 +1,49 @@
+body { background: #C3DDFF;
+	text-align: center;
+
+}
+
+h1 {font-family: 'Noto Sans', sans-serif;
+
+}
+
+h2 {font-family: 'Noto Sans', sans-serif;
+}
+
+h3 {font-family: 'Noto Sans', sans-serif;
+
+}
+
+p {font-family: 'Noto Sans', sans-serif;
+
+}
+
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
